@@ -5,4 +5,4 @@ This is a simple shell interface for Linux that I coded as part of a project in 
 
 -bilshell also allows up to one pipe ('|') in the commandline and has its own arrangement of pipe to execute the resulting command.
 
--It also has the capacity to execute bash shell commands from file if you provide each command on a separate line in a text file.
+-It also has the capacity to execute bash shell commands from file if you provide each command on a separate line in a text file. The name of that text file can then be passed as an argument when bilshell itself is being called.
